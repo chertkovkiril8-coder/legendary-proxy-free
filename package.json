@@ -1,0 +1,6 @@
+{
+  "name": "free-proxy-abikLegend",
+  "version": "1.0.0",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "http-proxy": "^1.18.1" }
+}
